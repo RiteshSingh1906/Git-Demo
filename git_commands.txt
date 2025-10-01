@@ -1,0 +1,25 @@
+
+
+git init
+git status
+git add test.py
+git commit -m "am in test file"
+git restore test.py
+
+
+ 1042  history
+ 1043  git push origin main
+ 1044  git add test2.pu
+ 1045  git add test2.py
+ 1046  git remote -v
+ 1047  git remote set-url origin https://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@github.com/RiteshSingh1906/Git-Demo.git
+ 1048  git push origin master
+ 1049  git push origin main
+ 1050  git status
+ 1051  git restore test.py
+ 1052  git status
+ 1053  git remote add origin https://github.com/RiteshSingh1906/Git-Demo
+ 1054  git add git_commands.txt
+ 1055  git commit -m "am the git commands"
+ 1056  git origin main
+ 1057  git push origin master
