@@ -18,7 +18,7 @@ git restore test.py
  1050  git status
  1051  git restore test.py
  1052  git status
- 1053  git remote add origin https://github.com/RiteshSingh1906/Git-Demo
+ 1053  git remote add origin REPOSITORY LINK
  1054  git add git_commands.txt
  1055  git commit -m "am the git commands"
  1056  git origin main
