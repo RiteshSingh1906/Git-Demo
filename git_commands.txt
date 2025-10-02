@@ -12,7 +12,7 @@ git restore test.py
  1044  git add test2.pu
  1045  git add test2.py
  1046  git remote -v
- 1047  git remote set-url origin https://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@github.com/RiteshSingh1906/Git-Demo.git
+ 1047  git remote set-url origin TOOOOKEN /RiteshSingh1906/Git-Demo.git
  1048  git push origin master
  1049  git push origin main
  1050  git status
